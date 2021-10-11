@@ -53,19 +53,3 @@ plt.scatter(x_test, y_test)
 plt.plot(x_test, y_predict)
 plt.ylim(ymin=0)
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
