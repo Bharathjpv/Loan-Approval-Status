@@ -1,6 +1,6 @@
 # Loan-Approval-Status for banking system
 # Objective
-Here the loan approval machine learning algorithm should be trained. The main objectve is to minimize the false positives i.e; the approval of bad loans mush be avoided at any cost with minimum loss of opportunity.
+Here the loan approval machine learning algorithm should be trained. The main objectve is to minimize the false positives i.e; the approval of bad loans must be avoided at any cost with minimum loss of opportunity.
 # Preprocessing
 Data is taken and insights on the data were obtained using pandas library. Null values were dropped, Categorical variables are replaced by Dummy variable. Drop first is used to aviod Diummy variable trap. Normalization of numerical data is done using standard scaler. Dependent and independent variables are saperated. Data is split into train and test data.
 # Model Building
